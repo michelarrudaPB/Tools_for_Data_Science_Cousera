@@ -1,0 +1,111 @@
+Jupyter Notebook - Michel
+Introduction
+List of Data Science Languages:
+
+1. Python;
+
+2. R;
+
+3. SQL;
+
+4. C/C++;
+
+5. Java;
+
+6. JavaScript;
+
+7. Scala;
+
+8. Go;
+
+9. Julia;
+
+10. Swift;
+
+11. MATLAB;
+
+12. SAS.
+List of data science libraries:
+
+1. Scrapy;
+
+2. BeautifulSoup;
+
+3. NumPy (Numerical Python);
+
+4. SciPy;
+
+5. Pandas;
+
+6. Matplotlib;
+
+7. Seaborn;
+
+8. Scikit-Learn (sklearn);
+
+9. TensorFlow;
+
+10. Keras.
+List of data science Table Tools:
+
+1. Pandas;
+   
+2. Apache Spark;
+
+3. Jupyter Notebook;
+
+4. Databricks;
+
+5. Dataiku;
+
+6. Snowflake.
+Arithmetic Expressions Examples:
+
+5 + 3 - 4 = 4
+
+10 - 3 - 9 = -2
+
+-3 + 7 -4 = 0
+
+# Suppose you have a number 'num'
+num = 4
+
+# Double the number
+doubled_num = num * 2
+
+# Print the result
+print(f"Double of {num} is {doubled_num}")
+import numpy as np
+
+# Create an array (you can replace this with your own data)
+arr = np.array([1, 2, 3])
+
+# Add 1 to each element
+result_addition = arr + 1
+
+# Print the result
+print("Result of addition:", result_addition)
+# Given minutes
+minutes = 330
+
+# Calculate hours and remaining minutes
+hours = minutes // 60
+remaining_minutes = minutes % 60
+
+# Print the result
+print(f"{minutes} minutes is equal to {hours} hours and {remaining_minutes} minutes.")
+Objetivos de Expressões Aritméticas
+
+1. Avaliação precisa: Garantir que as expressões sejam avaliadas corretamente, seguindo as regras de precedência e associatividade.
+
+2. Eficiência computacional: Otimizar o desempenho ao minimizar o número de operações e evitar cálculos desnecessários.
+
+3. Lidar com erros: Identificar e tratar erros, como divisão por zero ou estouro de valores.
+
+4. Compatibilidade de tipos: Garantir que os operandos sejam compatíveis (por exemplo, não somar uma string a um número).
+
+5. Clareza e legibilidade: Escrever expressões de forma clara e organizada para facilitar a compreensão.
+
+Nome do autor:
+
+Michel Fonseca Arruda
