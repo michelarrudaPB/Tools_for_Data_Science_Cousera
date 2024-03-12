@@ -1,5 +1,6 @@
 Jupyter Notebook - Michel
 Introduction
+
 List of Data Science Languages:
 
 1. Python;
@@ -25,6 +26,7 @@ List of Data Science Languages:
 11. MATLAB;
 
 12. SAS.
+
 List of data science libraries:
 
 1. Scrapy;
@@ -46,6 +48,7 @@ List of data science libraries:
 9. TensorFlow;
 
 10. Keras.
+
 List of data science Table Tools:
 
 1. Pandas;
@@ -59,6 +62,7 @@ List of data science Table Tools:
 5. Dataiku;
 
 6. Snowflake.
+
 Arithmetic Expressions Examples:
 
 5 + 3 - 4 = 4
@@ -94,6 +98,7 @@ remaining_minutes = minutes % 60
 
 # Print the result
 print(f"{minutes} minutes is equal to {hours} hours and {remaining_minutes} minutes.")
+
 Objetivos de Expressões Aritméticas
 
 1. Avaliação precisa: Garantir que as expressões sejam avaliadas corretamente, seguindo as regras de precedência e associatividade.
